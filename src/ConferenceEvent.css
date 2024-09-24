@@ -265,7 +265,8 @@
   }
   .nav_links{
     display: flex;
-    gap: 170px;
+    justify-content: space-between;
+    gap: 50px;
   }
   .left_navbar{
     width: 60vw;
